@@ -1,0 +1,6 @@
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\bin\Debug\Domen.dll
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\bin\Debug\Domen.pdb
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\obj\Debug\Domen.csproj.AssemblyReference.cache
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\obj\Debug\Domen.csproj.CoreCompileInputs.cache
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\obj\Debug\Domen.dll
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Domen\obj\Debug\Domen.pdb

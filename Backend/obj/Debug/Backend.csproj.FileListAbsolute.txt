@@ -1,0 +1,13 @@
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\bin\Debug\Backend.exe.config
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\bin\Debug\Backend.exe
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\bin\Debug\Backend.pdb
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\bin\Debug\Domen.dll
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\bin\Debug\Domen.pdb
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.FrmServer.resources
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.Properties.Resources.resources
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.csproj.GenerateResource.cache
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.csproj.CopyComplete
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.exe
+C:\Users\SasaJ\source\repos\SEPT-OKT-UCENJE\Backend\obj\Debug\Backend.pdb
